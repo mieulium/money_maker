@@ -11,3 +11,7 @@
 2. Usage of traditional (S)ARIMA to predict the model
 3. See if other data can enrich the predictions
 4. Build monitoring
+
+# Other details
+- Train test split needs to be cut by a certain time -> put as 01-01-2023 as cut off for train
+- 
