@@ -1,0 +1,9 @@
+{
+    "query": {
+        "base_url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service",
+        "int_rate_url": "/v2/accounting/od/avg_interest_rates",
+        "filter": "?filter=",
+        "date": "record_date:gte:"
+
+    }
+}
